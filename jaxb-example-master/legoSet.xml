@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<legoSet number="75211">
+    <name>Imperial TIE Fighter</name>
+    <theme>Star Wars</theme>
+    <subtheme>Solo</subtheme>
+    <year>2001</year>
+    <pieces>519</pieces>
+    <tags>
+        <tag>Stormtrooper</tag>
+        <tag>Star Wars</tag>
+        <tag>Solo</tag>
+        <tag>Starfighter</tag>
+    </tags>
+    <minifigs>
+        <minifig count="2">
+            <names>Imperial Mudtrooper</names>
+        </minifig>
+        <minifig count="1">
+            <names>Imperial Pilot</names>
+        </minifig>
+        <minifig count="1">
+            <names>Mimban Stormtrooper</names>
+        </minifig>
+    </minifigs>
+    <weights unit="kg">0.89</weights>
+    <url>https://brickset.com/sets/75211-1/Imperial-TIE-Fighter</url>
+</legoSet>
